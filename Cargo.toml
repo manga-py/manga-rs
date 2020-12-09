@@ -6,6 +6,10 @@ edition = "2018"
 license = "MIT"
 keywords = ["manga", "internet", "auto", "utilite", "comics"]
 categories = ["command-line-utilities", "filesystem", "multimedia::images", "parsing"]
+description = "Manga download utility."
+readme = "README.md"
+homepage = "https://github.com/manga-py/manga-rs"
+repository = "https://github.com/manga-py/manga-rs"
 
 exclude = [
     ".idea",
