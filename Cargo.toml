@@ -1,0 +1,15 @@
+[package]
+name = "manga-dl"
+version = "0.0.0"
+authors = ["1271 <70puf4bx9@relay.firefox.com>"]
+edition = "2018"
+license = "MIT"
+keywords = ["manga", "internet", "auto", "utilite", "comics"]
+categories = ["command-line-utilities", "filesystem", "multimedia::images", "parsing"]
+
+exclude = [
+    ".idea",
+    "target"
+]
+
+[dependencies]
